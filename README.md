@@ -1,5 +1,5 @@
 # BatchZbrushTools
-This script allow you to batch import folders of .OBJ files as Ztools for your Zbrush Lightbox Library.
+This script allows you to batch import folders of .OBJ files as Ztools for your Zbrush Lightbox Library.
 
 ## Steps to create the Ztools
 
