@@ -8,4 +8,4 @@ This script allows you to batch import folders of .OBJ files as Ztools for your 
 4. Open Zbrush
 5. Go to scripts and Load the "Outputs.txt" script. 
 6. Run the script. All the obj's will be converted to ZTL's in the Folder ZTL created in the same path as the obj's.
-7- Add your new tools to the lightbox library
+7. Add your new tools to the lightbox library
